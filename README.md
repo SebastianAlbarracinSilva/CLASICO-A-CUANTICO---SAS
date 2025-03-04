@@ -1,4 +1,4 @@
-# Números complejos y Espacios vectoriales CNYT
+# taller de simulación de lo clásico a lo cuántico CNYT
 
 ## **Estudiante:** Sebastian Albarracin Silva
 
